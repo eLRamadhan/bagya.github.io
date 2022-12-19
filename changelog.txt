@@ -15,6 +15,7 @@ Version: 3.3.0
   - Updated all outdated third party vendor libraries to their latest versions
   - Fixed navigation links focus color
 
+
 Version: 3.2.0
   - Updated Bootstrap to version 5.0.0 Final
   - Updated all outdated third party vendor libraries to their latest versions
